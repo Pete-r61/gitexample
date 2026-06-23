@@ -32,3 +32,4 @@
 #### 🔨 Uitgevoerde taken:
 - [x] Git repository aangemaakt en template ingericht.
 - [x] Eerste commits gepusht.
+- [x] Een tweede keer gepusht.
